@@ -6,7 +6,6 @@ Database: PostgreSQL
 
 Set Your Default Database `NAME, USER,PASSWORD,HOST` in [setting.py](https://github.com/Raymond1030/GeoDjango_smallLocationbase/blob/main/MobileCloud/MobileCloud/settings.py)
 
-------
 
 ## Prerequisites
 
