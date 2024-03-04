@@ -1,10 +1,10 @@
 # GeoDjango-smallLocationbase
 
-A Django Geo-server for my [CloudMapMobleMap]([Raymond1030/CloudMapMobileApp (github.com)](https://github.com/Raymond1030/CloudMapMobileApp))
+A Django Geo-server for my [CloudMapMobleMap](https://github.com/Raymond1030/CloudMapMobileApp)
 
 Database: PostgreSQL
 
-Set Your Default Database `NAME, USER,PASSWORD,HOST` in [setting.py]([GeoDjango_smallLocationbase/MobileCloud/MobileCloud/settings.py at main · Raymond1030/GeoDjango_smallLocationbase (github.com)](https://github.com/Raymond1030/GeoDjango_smallLocationbase/blob/main/MobileCloud/MobileCloud/settings.py))
+Set Your Default Database `NAME, USER,PASSWORD,HOST` in [setting.py](https://github.com/Raymond1030/GeoDjango_smallLocationbase/blob/main/MobileCloud/MobileCloud/settings.py)
 
 ------
 
