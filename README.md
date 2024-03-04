@@ -25,9 +25,7 @@ or
 
 `conda install psycopg2-binary`
 
-------
-
-### Start the Server
+## Start the Server
 
 ```
 cd 'YourPath'\MobileCloud
