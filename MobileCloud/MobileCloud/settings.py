@@ -78,9 +78,9 @@ DATABASES = {
         'ENGINE': 'django.contrib.gis.db.backends.postgis',
         'NAME': 'MobileCloud',
         'USER': 'postgres',
-        'PASSWORD': 'loho1030',
-        'HOST': 'localhost',  # 或者使用 'localhost' 如果是本地数据库
-        'PORT': '5432',  # 通常是 5432
+        'PASSWORD': '',
+        'HOST': '',  # 或者使用 'localhost' 如果是本地数据库
+        'PORT': '5432',  # 通常是 5432 .
     }
 }
 
